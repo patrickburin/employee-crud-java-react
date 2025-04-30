@@ -1,0 +1,35 @@
+# Node
+**/node_modules/
+**/dist/
+**/build/
+
+# React / Vite
+**/.vite/
+**/.env
+**/.env.*.local
+
+# Java / Quarkus
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/.idea/
+**/*.iml
+
+# Maven Wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Ignora só arquivos inúteis com extensão .Identifier
+*.Identifier
